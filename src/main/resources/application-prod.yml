@@ -1,6 +1,6 @@
 # 正式环境配置
 server:
-  port: 8081
+  port: 8034
 spring:
   # 数据库连接配置
   datasource:

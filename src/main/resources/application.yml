@@ -17,7 +17,7 @@ spring:
 
 mybatis:
   mapperLocations: classpath:mapper/*.xml
-  typeAliasesPackage: com.linkinstars.springBootTemplate.bean
+  typeAliasesPackage: com.linkinstars.morrison.bean
 
 pagehelper:
   helperDialect: mysql
